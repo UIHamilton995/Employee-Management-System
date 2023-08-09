@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.hero {
+  display: flex;
+  background-color: black;
+  padding: 100px;
+  gap: 70px;
+}
+h1 {
+  font-size: 150px;
+  color: #fff;
+}
+p {
+  color: #fff;
+  font-size: 25px;
+  line-height: 40px;
+  padding-top: 30px;
+}
+/* body {
+  background-color: rgb(239, 232, 232);
+} */
+img {
+  transform: translateX(100px);
+}

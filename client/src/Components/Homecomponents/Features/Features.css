@@ -1,0 +1,39 @@
+.Flex {
+  display: Flex;
+  padding: 150px;
+  gap: 100px;
+  padding-bottom: 0;
+}
+
+body {
+  /* background-color: black; */
+  color: black;
+}
+
+.feature-text {
+  padding: 40px;
+  transform: translateY(60px);
+  text-align: left;
+}
+
+.ping {
+  border-radius: 60px;
+  height: 500px;
+  width: 500px;
+}
+
+h2 {
+  font-size: 30px;
+  justify-content: start;
+  line-height: 40px;
+}
+
+.pee {
+  font-size: 18px;
+  line-height: 25px;
+  padding-right: 40px;
+}
+
+.margin {
+  margin-top: 0;
+}
